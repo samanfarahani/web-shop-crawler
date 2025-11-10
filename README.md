@@ -1,4 +1,4 @@
-                                                                                                                  [crawler]
+[crawler]
 
 این پروژه یک **وب اسکرپر (Web Scraper)** است که با استفاده از Python، کتابخانه‌های `requests`, `BeautifulSoup` و `selenium` اطلاعات را از سایت‌های مختلف جمع‌آوری کرده و در قالب فایل Excel ذخیره می‌کند.
 
